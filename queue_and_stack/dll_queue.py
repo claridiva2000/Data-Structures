@@ -33,6 +33,6 @@ q.enqueue(3)
 print(q.items)
 q.dequeue()
 print('\n')
-print(q.items)
+print(q.items) 
 
 
